@@ -1,0 +1,3 @@
+# NavigationDrawerActivity
+
+### Android Studio Template
